@@ -1,0 +1,9 @@
+--- To Do ---
+
+/) Get the upload input cleaned and filtered
+2) Add format support + size limitations
+3) Get comments to only display for their specific post
+4) fix comment count
+5) add notifications
+6) Profile picture updating all instances of the image
+7) Make a message system
